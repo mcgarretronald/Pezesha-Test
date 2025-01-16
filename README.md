@@ -18,9 +18,6 @@ This project implements a simple REST API that allows users to create accounts, 
 1. [Technologies Used](#technologies-used)
 2. [Setup Instructions](#setup-instructions)
 3. [API Endpoints](#api-endpoints)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ---
 
